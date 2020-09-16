@@ -198,7 +198,7 @@ textarea {
         font-size: 18px;
         border: 1px solid #3a9a00;
         border-radius: 3px;
-        padding: 10px 20px 10px 20px;
+        padding: 10px 15px 10px 15px;
         max-width: 150px;
         background-image: linear-gradient(#a3d840, #7ec31f);
         text-shadow: 1px 1px 0px #3a9a00;
@@ -209,7 +209,7 @@ textarea {
         font-size: 18px;
         border: 1px solid #a2202a;
         border-radius: 3px;
-        padding: 10px 20px 10px 20px;
+        padding: 10px 15px 10px 15px;
         max-width: 150px;
         background-image: linear-gradient(#f65e70, #f03747);
         text-shadow: 1px 1px 0px #a2202a;
